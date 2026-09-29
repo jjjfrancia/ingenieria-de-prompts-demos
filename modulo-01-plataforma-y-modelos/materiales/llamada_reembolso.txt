@@ -1,0 +1,12 @@
+Transcripción de llamada · Central de atención · Caso de estudio del curso (datos inventados)
+
+Agente: Buenos días, central de atención, habla Lucía. ¿En qué le puedo ayudar?
+Asegurado: Buenos días. Llamo porque me rechazaron el reembolso de una resonancia magnética de la rodilla.
+Agente: Entiendo. ¿Le indicaron el motivo del rechazo?
+Asegurado: Me dicen que falta la orden médica, pero yo la adjunté cuando presenté la solicitud. Tengo el correo de confirmación.
+Agente: Gracias. ¿Recuerda la fecha en que presentó la solicitud?
+Asegurado: Fue hace dos semanas, un lunes. Y la resonancia costó bastante, necesito ese dinero.
+Agente: Comprendo. Voy a registrar un reclamo para que revisen si la orden médica llegó con la solicitud.
+Asegurado: ¿Y cuánto tarda eso? ¿Me lo van a pagar?
+Agente: El área de reembolsos revisa el caso y le responde por correo. Le dejo el número de reclamo.
+Asegurado: Está bien. Gracias.

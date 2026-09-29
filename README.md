@@ -9,11 +9,12 @@ Cada capítulo trae el mismo código en dos formatos:
 - un **notebook** (`.ipynb`), para ejecutarlo celda por celda;
 - un **script** (`.py`), para ejecutarlo de una vez en tu computador.
 
-## Capítulos
+## Módulos
 
-| Capítulo | Qué aprendes | Abrir en Colab |
+| Módulo | Qué practicas | Cómo |
 |---|---|---|
-| [01 · Tu primera llamada](capitulo-01-primera-llamada/) | API key, llamada sin SDK y con SDK, objeto Message, zero-shot, sesgo, primera aplicación | [Abrir](https://colab.research.google.com/github/jjjfrancia/ingenieria-de-prompts-demos/blob/main/capitulo-01-primera-llamada/primera_llamada.ipynb) |
+| [1 · Plataforma y modelos](modulo-01-plataforma-y-modelos/) | Prompts zero-shot, el sesgo, qué funciones activar, elegir modelo y cuidar el contexto | En claude.ai, sin código: prompts listos para copiar |
+| [Código · Tu primera llamada a la API](capitulo-01-primera-llamada/) | API key, llamada sin SDK y con SDK, objeto Message, primera aplicación | [Abrir en Colab](https://colab.research.google.com/github/jjjfrancia/ingenieria-de-prompts-demos/blob/main/capitulo-01-primera-llamada/primera_llamada.ipynb) o en tu computador |
 
 ## Lo que necesitas
 
